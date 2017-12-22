@@ -1,1 +1,1 @@
-"Logic of Self" 
+# Logic of Self
