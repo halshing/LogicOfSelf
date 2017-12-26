@@ -1,0 +1,24 @@
+---
+title: The Impact Words Have On Your Mindset
+catalog: true
+date: 2017-12-22
+subtitle:
+header-img: "grass.png"
+tags:
+---
+Words are the foundation of how we understand the world. Without them, we can't share ideas, build things, protect each other, or get things done. We communicate using words in vastly different ways: we speak English, Mandarin, Arabic, Spanish, Russian; we use sign language and morse code; we use art; we write texts, novels, blogs, constitutions, and user manuals. These are all ways of conveying a message. We have something to say and we want to let others know about it. Words aren't just a way of communicating with the world around us, they are a way of understanding ourselves. The beliefs and thoughts we have, the ever elusive subconscious, "gut feeling", or voices in your head, can be better understood with words. They are a fundamental aspect of connection with both the outside world and the world within ourselves.
+
+We don't really think about words. We just use them and intuitively understand them. Sometimes we need to think of a word a little longer, but usually they just come. Because it's not the words that matter but what we're trying to say that matters. Our thoughts and beliefs are ways we tell ourselves something, not necessarily in an active and conscious way, but much more subtle. And when we can listen to what we tell ourselves, we can begin to take control of who we are.
+
+# Our Thoughts Are Words
+When you speak you have to have a thought, right? Naturally! And you start putting together words that you think will articulate that thought. So how do you know which words to use? You just know. This is amazing! To put how amazing this is into perspective, there is an estimated 150,000 to 1,000,000 words in the English language. (Wow, that's a huge selection of words!) Our ability to intuitively string together words to convey a message from such a large possibility of words is truly phenomenal. But we don't use all of them in our daily lives, or even in our yearly lives for that matter. But yet we are still able to communicate and hold our beliefs. Why is that? In my opinion, we, subconsciously, limit the words we use based on what we know or believe. In other words, we use words based on context.
+
+There is a quote floating around the internet that is a good example of the relationship between words and context: "You are not just a cashier working at McDonald's, you handle transactions for a multi-billion dollar company". This illustrates a mindset about the work you do by changing the words that are used to describe the job. The job itself hasn't changed, but the perspective on how you see that job is different. Words can change your mindset on things you already know and do. So you don't necessarily have to forget everything you know or stop doing what you're doing in order to have a different mindset and perspective about it.
+
+# Listen To Your Self-Talk
+We all talk to ourselves, whether it's in the shower, sitting in traffic, or walking down the street. We vocalize our thoughts when we think no one is looking, but we also talk to ourselves subconsciously through what we believe about ourselves. You don't explicitly know you're doing it but every time you think to yourself "I am", you are telling yourself something about you. If you make a mistake, for example, you might think to yourself "I'm an idiot! I don't know what I was thinking". This thought may happen so quick you don't even realize you thought it, but you just called yourself an idiot. Would you call someone else an idiot for making a mistake? If yes, then you're probably an asshole. If the answer is no, then why would you beat yourself up and say it to yourself?
+
+How we talk to and about ourselves shapes the foundation of what we believe is possible. Negative self-talk limits our potential before we give ourselves a chance to realize it. We might let other people's words influence how we talk to and what we believe about ourselves. People's opinions can mask themselves as our own self-talk, but when you can hear what it is you're saying to yourself, you get to choose if you accept it or not. If you choose to not accept what you're saying, change the words you use to something more positive and productive. So in the case of making a mistake, tell yourself instead "Well that didn't go as expected. That's OK, next time I'll do it differently".
+
+# Final Thought
+The way we use and understand words are part of the foundation that shapes who we are. Our ability to use and understand them is embedded in our subconscious and we intuitively make sense of them as we go about our lives. The impact they have on what we believe about ourselves is great and we need to listen to what we say more closely in order to change our mindset for the better.
