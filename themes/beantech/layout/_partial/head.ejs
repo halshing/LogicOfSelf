@@ -5,6 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="<%= config.description %>">
     <meta name="keyword"  content="<%= config.keyword %>">
+    <meta property="og:type" content="blog">
+    
+    <% if(page.permalink) { %>
+        <meta property="og:image" content="<%= page['permalink'] %><%= page['header-img'] %>">
+    <% } else { %>
+        <meta property="og:image" content="<%= config['url'] %>/<%= config['header-img'] %>">
+    <% } %>
+    
+    <% if(page.title) { %>
+        <meta property="og:title" content="<%= page['title'] %> - <%= config['title']%>">
+    <% } else { %>
+        <meta property="og:title" content="<%= config['title'] %>">
+    <% } %>
+
+    <% if(page.excerpt) { %>
+        <meta property="og:description" content="<%= strip_html(page['excerpt']) %>">
+    <% } else { %>
+        <meta property="og:description" content="<%= config['description'] %>">
+    <% } %>
+
     <!-- <link rel="shortcut icon" href="<%= config.root %>img/ironman-draw.png"> -->
     <!-- Place this tag in your head or just before your close body tag. -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -69,4 +89,22 @@
           
         window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
       </script>
+      <!-- Facebook Pixel -->
+      <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '710850942452654');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=710850942452654&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->  
 </head>

@@ -7,6 +7,7 @@ header-img: "grass.png"
 tags:
 ---
 Words are the foundation of how we understand the world. Without them, we can't share ideas, build things, protect each other, or get things done. We communicate using words in vastly different ways: we speak English, Mandarin, Arabic, Spanish, Russian; we use sign language and morse code; we use art; we write texts, novels, blogs, constitutions, and user manuals. These are all ways of conveying a message. We have something to say and we want to let others know about it. Words aren't just a way of communicating with the world around us, they are a way of understanding ourselves. The beliefs and thoughts we have, the ever elusive subconscious, "gut feeling", or voices in your head, can be better understood with words. They are a fundamental aspect of connection with both the outside world and the world within ourselves.
+<!-- more -->
 
 We don't really think about words. We just use them and intuitively understand them. Sometimes we need to think of a word a little longer, but usually they just come. Because it's not the words that matter but what we're trying to say that matters. Our thoughts and beliefs are ways we tell ourselves something, not necessarily in an active and conscious way, but much more subtle. And when we can listen to what we tell ourselves, we can begin to take control of who we are.
 
