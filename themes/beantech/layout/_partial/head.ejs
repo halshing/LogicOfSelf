@@ -6,6 +6,9 @@
     <meta name="description" content="<%= config.description %>">
     <meta name="keyword"  content="<%= config.keyword %>">
     <meta property="og:type" content="blog">
+
+    <!-- jQuery -->
+    <%- js('js/jquery.min.js') %>   
     
     <% if(page.permalink) { %>
         <meta property="og:image" content="<%= page['permalink'] %><%= page['header-img'] %>">
@@ -106,5 +109,30 @@
     <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=710850942452654&ev=PageView&noscript=1"
     /></noscript>
-    <!-- End Facebook Pixel Code -->  
+    <!-- End Facebook Pixel Code --> 
+    <!-- My Custom App Insight Tracker --> 
+    <script>
+        $.fn.isInViewport = function() {
+            if (!this.id) return;
+            var elementTop = $(this).offset().top;
+            var elementBottom = elementTop + $(this).outerHeight();
+            var viewportTop = $(window).scrollTop();
+            var viewportBottom = viewportTop + $(window).height();
+            return elementBottom > viewportTop && elementTop < viewportBottom;
+        };
+        var _loscache = {};
+        $(document).ready(function() {
+            appInsights.startTrackPage("Got2End");
+        })
+        $(window).on('resize scroll', function() {
+            if (!_loscache.got2end) {
+                var elm = $("#got2end");
+                var got2end = elm[0].id ? elm.isInViewport() : false;
+                if (got2end && !_loscache.got2end) {
+                    _loscache.got2end = got2end;
+                    appInsights.stopTrackPage("Got2End");
+                }
+            }
+        });
+    </script>
 </head>
