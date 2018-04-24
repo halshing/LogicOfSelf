@@ -7,14 +7,14 @@
     </url>
     
     <url>
-        <loc>https://logicofself.com/about/</loc>
+        <loc>https://logicofself.com/archive/</loc>
         <lastmod>2018-02-10T01:29:52.163Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://logicofself.com/archive/</loc>
+        <loc>https://logicofself.com/about/</loc>
         <lastmod>2018-02-10T01:29:52.163Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
